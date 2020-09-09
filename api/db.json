@@ -1,3 +1,40 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "aa",
+      "description": "xx",
+      "id": 1
+    },
+    {
+      "title": "cool stream",
+      "description": "WOW",
+      "id": 3
+    },
+
+    {
+      "title": "Awesome Title",
+      "description": "Awesome Description",
+      "userId": "108727704950944210845",
+      "id": 6
+    },
+    {
+      "title": "hi",
+      "description": "hey",
+      "userId": "108727704950944210845",
+      "id": 7
+    },
+
+    {
+      "title": "aa",
+      "description": "aaaa",
+      "userId": "108727704950944210845",
+      "id": 10
+    },
+    {
+      "title": "WOW SO AMAZONG!!",
+      "description": "BEST YET OMG!!!! MUST WATCH!!!!!",
+      "userId": "108727704950944210845",
+      "id": 11
+    }
+  ]
 }
